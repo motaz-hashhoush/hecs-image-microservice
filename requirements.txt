@@ -1,0 +1,9 @@
+flask >= 2.2
+flask-restx >= 1.0
+dotenv
+tensorflow
+requests
+numpy
+uuid
+bs4
+scikit-image
